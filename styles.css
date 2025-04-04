@@ -3,6 +3,6 @@ label:nth-child(even){
 	color:red;
 }
 
-input:nth-child(even){
+.input:nth-child(even){
 	color:red;
 }
