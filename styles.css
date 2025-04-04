@@ -1,6 +1,6 @@
 /*  your css code here. If applicable */
-form .input:nth-child(even) {
-            color: red;
+.input:nth-child(even) {
+            color: rgb(255, 0, 0);
         }
 
 /* div label:nth-child(even){
