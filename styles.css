@@ -1,9 +1,8 @@
 /*  your css code here. If applicable */
+.red-radio {
+            color: red;
+        }
 
-
- label:nth-child(even){
-	color:red;
-}
-label:nth-child(odd){
-	color:black;
-}
+/* div label:nth-child(even){
+	color:rgb(255, 0, 0);
+} */
