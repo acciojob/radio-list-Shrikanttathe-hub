@@ -1,7 +1,4 @@
 /*  your css code here. If applicable */
- label:nth-child(3) {
-            color: rgb(255, 0, 0);
-        }
-lrabel:nth-child(4) {
+.input:nth-child(even) {
             color: rgb(255, 0, 0);
         }
