@@ -1,8 +1,7 @@
 /*  your css code here. If applicable */
-form > input:nth-child(even) {
+ label:nth-child(3) {
             color: rgb(255, 0, 0);
         }
-
-/* div label:nth-child(even){
-	color:rgb(255, 0, 0);
-} */
+lrabel:nth-child(4) {
+            color: rgb(255, 0, 0);
+        }
